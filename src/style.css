@@ -1,0 +1,54 @@
+p {
+    color : red;
+}
+
+
+.round1 {
+    width: 30em;
+    height: 15em;
+    border: 2px solid red;
+    background: mistyrose;
+    position: relative;
+    /*left: 50%;*/
+   /*transform: translate(15%, 0);*/
+}
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+.wraper{
+    display: flex;
+}
+
+idSelector {
+    color: darkblue;
+}
+
+.btn:hover {
+ background-color: cadetblue;
+
+}
+.btn1 {
+    height: 100px;
+}
+/*.color1 {*/
+/*    background-color: darkgrey;*/
+/*}*/
+.h {
+    height: 20px;
+}
+.р1 {
+    height: 150px;
+}
+.ctoto{
+    text-align: center;
+}
+.forHeader {
+    display: block;
+    margin-left: auto;
+    white-space: nowrap;
+}
+.forHeader1{
+    margin-left: 250px;
+}
